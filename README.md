@@ -149,3 +149,6 @@ Color harmonization and annotation were completed in Adobe Illustrator to produc
 
 ## Poster
 
+![My Visualization](IST719_Severe%20Weather%20Event_final_poster.jpg)
+
+
