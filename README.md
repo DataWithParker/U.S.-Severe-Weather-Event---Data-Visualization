@@ -102,7 +102,6 @@ Bar Chart breaksdown the major storm types and their share of total U.S. events:
 - Tornado – **7%**  
 - Flood – **6%**  
 - Lightning – **4%**  
-- etc.
 
 ### **Top 5 Storm Event Metrics**
 Radar chart comparing event types across:
