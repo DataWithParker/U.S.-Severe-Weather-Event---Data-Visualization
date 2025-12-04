@@ -47,14 +47,14 @@ Data originates from the **NOAA National Weather Service Storm Events Database**
 
 ## Methodology  
 
-### Data Import & Cleaning**
+### Data Import & Cleaning
 - Imported NOAA storm data using `readr`, `dplyr`, and `tidyverse` tools  
 - Cleaned and standardized event types (removing duplicates / inconsistent labels)  
 - Converted character fields for damages into numeric values  
 - Aggregated events by year, state, and storm category  
 - Validated missing data and ensured consistent temporal coverage  
 
-### Data Transformation & Aggregation**
+### Data Transformation & Aggregation
 To build the poster narrative, the dataset was transformed into multiple analytical tables:
 
 - **Storm frequency by year**  
