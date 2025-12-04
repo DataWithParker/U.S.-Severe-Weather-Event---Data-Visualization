@@ -1,6 +1,6 @@
 # U.S.-Severe-Weather-Event-Data-Visualization
 
-*Course: IST 719 - Information Visualization*
+*Course: IST 719 - Information Visualization - Syracuse University*
 
 ## Project Overview  
 This mini-poster project analyzes decades of U.S. storm event data to uncover trends in storm frequency, severity, and human and economic impacts.  
