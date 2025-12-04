@@ -79,33 +79,22 @@ To build the poster narrative, the dataset was transformed into multiple analyti
 - **Casualty analysis**  
   - Combined fatalities + injuries  
   - Identified tornadoes as highest-casualty storms
-
-### **Visualization & Poster Design**
-Visualizations were created in R, using packages such as:
-
-- **ggplot2** – line plots, bar charts  
-- **dplyr / tidyr** – data manipulation  
-- **usmap / sf** – geographic mapping  
-- **scales / RColorBrewer** – color palettes and formatting  
-
-Color harmonization, and annotation were completed in Adobe Illustrator to produce a clean, cohesive mini-poster.
-
 ---
 
 ## Visualizations Featured in Poster  
 The final poster included several coordinated graphics:
 
-### **1. Monthly Storm Frequency (1958–2018)**
+### **Monthly Storm Frequency (1958–2018)**
 A 60-year time series showing rising storm event counts through the 1990s and 2000s, peaking in 2011.
 
-### **2. U.S. Storm Event Density Map**
+### **U.S. Storm Event Density Map**
 Choropleth map highlighting the geographic distribution of storm events.  
 Highest concentrations:  
 - **Texas (~9,500 events)**  
 - **Iowa (~9,000)**  
 - **Ohio (~7,800)**  
 
-### **3. Most Common Storm Types (Top 10)**
+### **Most Common Storm Types (Top 10)**
 Bar Chart breaksdown the major storm types and their share of total U.S. events:
 - Thunderstorm Wind – **62%**  
 - Flash Flood – **11%**  
@@ -115,7 +104,7 @@ Bar Chart breaksdown the major storm types and their share of total U.S. events:
 - Lightning – **4%**  
 - etc.
 
-### **4. Top 5 Storm Event Metrics**
+### **Top 5 Storm Event Metrics**
 Radar chart comparing event types across:
 - Frequency  
 - Injuries  
@@ -123,12 +112,12 @@ Radar chart comparing event types across:
 - Property damage  
 - Fatalities  
 
-### **5. Asset Damage Metrics**
+### **Asset Damage Metrics**
 Callouts:
 - Floods - $3.5B+ in crop loss  
 - Flash floods - caused more property damage than any other storm type
 
-### **6. Storm Casualties (Fatal + Non-Fatal)**
+### **Storm Casualties (Fatal + Non-Fatal)**
 Bar chart shows Tornadoes leading casualties, followed by thunderstorm wind and floods.
 
 ---
@@ -146,7 +135,15 @@ Bar chart shows Tornadoes leading casualties, followed by thunderstorm wind and 
 
 ## Tools
 
-### **R Libraries: ggplot2, dplyr, tidyr, readr, tidyverse, scales, sf, usmap, RColorBrewer*
+### **Visualization & Poster Design**
+Visualizations were created in R, using packages such as:
+
+- **ggplot2** – line plots, bar charts  
+- **dplyr / tidyr** – data manipulation  
+- **usmap / sf** – geographic mapping  
+- **scales / RColorBrewer** – color palettes and formatting  
+
+Color harmonization and annotation were completed in Adobe Illustrator to produce a clean, cohesive mini-poster.
 
 ---
 
